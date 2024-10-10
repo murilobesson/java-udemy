@@ -15,6 +15,7 @@ public class ex02 {
         area = pi * raio * raio;
         System.out.printf("A area do circulo é igual a: %.4f", area);
 
+        
         sc.close();
     }
 }
