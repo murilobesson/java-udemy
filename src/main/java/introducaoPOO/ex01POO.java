@@ -1,4 +1,4 @@
-package org.example;
+package introducaoPOO;
 
 import entities.Retangulo;
 import java.util.Locale;
